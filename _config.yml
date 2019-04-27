@@ -9,7 +9,7 @@ name: Kepasa Project
 description: An Open Source Feed Aggregator Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/kepasa-logo.png
+avatar: https://kepasa-project.github.io/k-blog/images/kepasa-logo.png
 
 #
 # Flags below are optional
