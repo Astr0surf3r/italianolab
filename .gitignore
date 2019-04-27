@@ -1,2 +1,3 @@
 # hidden files/directories for .git
 /_site/*
+/.sass-cache/*

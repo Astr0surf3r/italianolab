@@ -3,16 +3,31 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1>Download</h1>
+   
+        <p>
+          <button class="btn"><i class="fas fa-download"></i> <a href="{{ site.github.zip_url }}" class="download"><strong>.zip </strong></a></button>
+          <button class="btn"><i class="fas fa-download"></i> <a href="{{ site.github.tar_url }}" class="download"><strong>.tar Ball</strong></a></button>
+          <button class="btn"><a href="{{ site.github.repository_url }}" class="download">View On <strong>GitHub</strong></a></button>
+        </p>
 
       <div class="entry">
-        {{ post.excerpt }}
+		<img src="{{ site.baseurl }}/images/kepasa-code.png" alt="Constructocat by https://github.com/jasoncostello" />  
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <h1>Donation</h1>
+
+      <ul class="downloads">
+          <li><i class="fab fa-btc"></i> 1ET3io4sXiDJ5GuGmF9UcYw6uHRxMUvfSD </li>
+          <li><i class="fab fa-ethereum"> </i> 0x33BCA6E4dfd6D650D9d1347c4fA375fe98A3C264</li>
+        </ul>
+
     </article>
-  {% endfor %}
 </div>
+
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+
+

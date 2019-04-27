@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: blog
+title: Blog
+permalink: /blog/
 ---
 
 Some information about you!
@@ -10,6 +10,6 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact the Kepasa Project Developer
+### Contact me
 
-[astr0surf3r@gmail.com](mailto:astr0surf3r@gmail.com)
+[email@domain.com](mailto:email@domain.com)

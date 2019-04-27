@@ -4,9 +4,12 @@
 //
 // IMPORTS
 //
+$fa-font-path: "assets/fonts/font-awesome/";
+@import "font-awesome";
 
 @import "reset";
 @import "variables";
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -109,6 +112,47 @@ strong, b {
 img {
   max-width: 100%;
 }
+
+/*********************/
+/* DOWNLOADS / BUTTON */
+/*********************/
+
+.btn {
+  background-color: gray;
+  border: none;
+  color: white;
+  padding: 10px;
+  font-size: 12px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #A9A9A9;
+}
+
+.download {
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.download:hover{
+    color: $darkGray;
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+// end download buttons
+
+// remove bullet from ul
+
+ul {
+  list-style-type: none;
+}
+
+//
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {

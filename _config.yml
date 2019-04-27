@@ -6,10 +6,15 @@
 name: Kepasa Project
 
 # Short bio or description (displayed in the header)
-description: An Open Source Feed Aggregator Project
+description: An Open Source Feed Aggregator Sofware
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://kepasa-project.github.io/k-blog/images/kepasa-logo.png
+
+github:
+  zip_url: https://github.com/kepasa-project/kepasa-feeds-aggregator/archive/master.zip
+  tar_url: https://github.com/parsiad/mlinterp/archive/v0.1.zip
+  repository_url: https://github.com/kepasa-project/kepasa-feeds-aggregator
 
 #
 # Flags below are optional
@@ -76,6 +81,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-font-awesome-sass
+
+font-awesome:
+  assets: true
 
 # Exclude these files from your production _site
 exclude:
