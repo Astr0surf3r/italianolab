@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem "github-pages"
+gem 'github-pages'
 gem 'jekyll-font-awesome-sass'
+gem 'minimal-mistakes-jekyll'

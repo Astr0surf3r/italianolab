@@ -82,6 +82,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-font-awesome-sass
+  - jekyll-include-cache
 
 font-awesome:
   assets: true
@@ -93,4 +94,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-theme: jekyll-theme-cayman
+
+theme: minimal-mistakes-jekyll
