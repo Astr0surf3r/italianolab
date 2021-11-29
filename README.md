@@ -5,7 +5,7 @@
 ### Italiano Lab is a laboratory of software development and architectural engineering specialized essentially: 
 
 - software development of web app from scratch (Ruby On Rails, php) 
-- architectural design for small homes (from preliminary to structural design)
+- architectural design for small house (from preliminary to structural design)
 
 ## About Jekyll
 

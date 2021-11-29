@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Projects"
-    url: /projects/
-  - title: "About"
+  - title: "coding"
+    url: /coding/
+  - title: "architecture"
+    url: /architecture/
+  - title: "about"
     url: /about/
-  - title: "Contact"
+  - title: "contact"
     url: /contact/

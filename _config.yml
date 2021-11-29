@@ -116,9 +116,12 @@ author:
   bio              : "Passion for Development and Architectural Design"
   location         : "America, Europe"
   links:
-    - label: "Italiano Laboratory"
+    - label: "ItalianoLab Source Code"
       icon: "fas fa-fw fa-link"
-      url: "https://www.italianolab.com"
+      url: "https://github.com/Astr0surf3r/italianolab"
+    - label: "Telegram"
+      icon: "fab fa-telegram-plane"
+      url: "https://t.me/astr0surf3r"
 
 # Site Footer
 footer:

@@ -17,7 +17,10 @@ toc: true
 author_profile: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Italiano Lab is a laboratory of software development and architectural engineering specialized in:
+
+- software development of web app from scratch (Ruby On Rails, php) 
+- architectural design for small house (from preliminary to structural design)
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
