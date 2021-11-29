@@ -5,18 +5,20 @@
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_pages" # an empty string here means all files in the project
       type: "pages"
     values:
-      layout: "default"
+      layout: "single"
 
 minimal_mistakes_skin : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Name of your site (displayed in the header)
-name: Italiano Lab
-
-# Short bio or description (displayed in the header)
-description: Software Development & Engineering Lab
+# Site Settings
+locale                   : "en-US"
+title                    : "ItalianoLab"
+title_separator          : "-"
+subtitle                 : "Software Development and Architectural Engineering Lab"
+name                     : &name "ITALIANO LAB" # &name is a YAML anchor which can be *referenced later
+description: Software Development & Engineering Lab # Short bio or description (displayed in the header)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.ducatodipiazzapontida.it/media/images/articles/I.png
@@ -106,6 +108,40 @@ exclude:
 
 # jekyll theme
 theme: minimal-mistakes-jekyll
+
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/michael-rose.jpg"
+  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
+  location         : "Buffalo, NY"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
 
 # Reading Files
 include:
