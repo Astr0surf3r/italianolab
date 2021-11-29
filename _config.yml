@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "ItalianoLab"
 title_separator          : "-"
 subtitle                 : "Software Development and Architectural Engineering Lab"
-name                     : &name "ITALIANO LAB" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Ing. Salvatore Maria" # &name is a YAML anchor which can be *referenced later
 description: Software Development & Engineering Lab # Short bio or description (displayed in the header)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -112,36 +112,20 @@ theme: minimal-mistakes-jekyll
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  avatar           : "https://avatars.githubusercontent.com/u/896968?v=4"
+  bio              : "Passion for Development and Architectural Design"
+  location         : "America, Europe"
   links:
-    - label: "Made Mistakes"
+    - label: "Italiano Laboratory"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
+      url: "https://www.italianolab.com"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/Astr0surf3r/italianolab"
 
 # Reading Files
 include:
