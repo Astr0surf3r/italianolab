@@ -1,0 +1,11 @@
+Salvatore:
+  name        : "Salvatore M. Italiano"
+  bio         : "Architectural Engineer and Software Developer"
+  avatar      : "https://avatars.githubusercontent.com/u/896968?v=4"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sal@italianolab.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://italianolab.com"
