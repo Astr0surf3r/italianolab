@@ -8,8 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-link'></i> some open source repos"
       url: "https://github.com/Astr0surf3r"
-excerpt: >
-  building websites from scratch and small houses design <br />
+excerpt: Building websites from scratch and small houses design <br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0"></a></small>
 feature_row:
   - image_path: /assets/images/ruby-code.png
