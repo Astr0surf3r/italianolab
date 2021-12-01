@@ -107,7 +107,8 @@ exclude:
   - CNAME
 
 # jekyll theme
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Site Author
 author:
@@ -134,3 +135,7 @@ footer:
 include:
   - .htaccess
   - _pages
+
+plugins:
+  - jekyll-include-cache
+  

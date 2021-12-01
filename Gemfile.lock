@@ -230,13 +230,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.24.0)
-      jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.3)
     minitest (5.14.4)
     multipart-post (2.1.1)
     nokogiri (1.10.10)
@@ -282,13 +275,13 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
-  ruby
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
   jekyll (~> 3.7)
   jekyll-font-awesome-sass
-  minimal-mistakes-jekyll
+  jekyll-include-cache
 
 BUNDLED WITH
-   1.17.0
+   2.2.32
