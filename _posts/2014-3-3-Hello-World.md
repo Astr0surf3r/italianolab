@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: splash
 title: You're up and running!
 ---
 
