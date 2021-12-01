@@ -13,7 +13,7 @@ excerpt: Building websites from scratch and small houses design <br />
 feature_row:
   - image_path: /assets/images/ruby-code.png
     alt: "customizable"
-    title: "Web app from scratch"
+    title: "Specialized Software Development"
     excerpt: "In our lab we made several projects developed in Ruby on Rails for many company's field of business: logistic, health care, real estate."
     url: "/coding/"
     btn_class: "btn--info"
