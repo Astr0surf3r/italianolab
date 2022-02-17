@@ -26,8 +26,8 @@ author_profile: true
 
 ## Back End Development
 
-- design and analysis software
-- databases design (postgresql, mongodb)
+- design and software analysis
+- database design (postgresql, mongodb)
 - RESTFUL Services with API
 - MVC architectural pattern
-- development all component with [Ruby On Rails](https://rubyonrails.org/)
+- all component development with [Ruby On Rails](https://rubyonrails.org/)

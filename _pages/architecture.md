@@ -29,7 +29,7 @@ author_profile: true
 
 ## Structure Calculation
 
-- calculation of steel antennas for the construction of base station for mobile devices networks
-- calculation of reinforced concrete structures of houses of 2 levels
-- foundation calculations: plinths, slabs, ground beams
+- Steel antenna calculation for the construction of base stations for mobile devices networks
+- Reinforced concrete structure calculation for 2 leveled houses
+- Foundation calculations: plinths, slabs, ground beams
 
