@@ -17,7 +17,7 @@ toc: true
 author_profile: true
 ---
 
-## Small House Design
+## Prefab Tiny House Design
 
 - preliminary planning
 - architectural design
@@ -25,7 +25,7 @@ author_profile: true
 - 3D modelling with [Sketchup](https://www.sketchup.com/)
 - 3D rendering with [V-RAY](https://www.chaosgroup.com/vray/sketchup) 
 
-{% include gallery id="layouts_gallery_architectural" caption="Examples of `small houses`" %}
+{% include gallery id="layouts_gallery_architectural" caption="Examples of `prefab tiny houses`" %}
 
 ## Structure Calculation
 

@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-link'></i> some open source repos"
       url: "https://github.com/Astr0surf3r"
-excerpt: Building software from scratch and Designing small houses <br />
+excerpt: Building software from scratch and Designing prefab tiny houses <br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0"></a></small>
 feature_row:
   - image_path: /assets/images/ruby-code.png
@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/3d-sample.png
     alt: "sketchup projects"
-    title: "Small House Projects"
+    title: "Prefab Tiny House Projects"
     excerpt: "After the design of a small house project plan in .dwg or .dxf we can create a 3D model using a 3D software like Sketchup."
     url: "/architecture/"
     btn_class: "btn--info"

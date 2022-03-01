@@ -24,9 +24,9 @@ description: Software Development & Engineering Lab # Short bio or description (
 avatar: https://www.ducatodipiazzapontida.it/media/images/articles/I.png
 
 github:
-  zip_url: https://github.com/kepasa-project/kepasa-feeds-aggregator/archive/master.zip
+  zip_url: https://github.com/Astr0surf3r/italianolab/archive/refs/heads/master.zip
   tar_url: https://github.com/parsiad/mlinterp/archive/v0.1.zip
-  repository_url: https://github.com/kepasa-project/kepasa-feeds-aggregator
+  repository_url: https://github.com/Astr0surf3r/italianolab
 
 #
 # Flags below are optional
@@ -38,7 +38,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/Astr0surf3r
+  github: https://github.com/Astr0surf3r/italianolab
   instagram:
   linkedin:
   pinterest:
