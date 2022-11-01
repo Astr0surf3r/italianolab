@@ -20,6 +20,17 @@ subtitle                 : "Software Development & Architectural Engineering Lab
 name                     : &name "Ing. Salvatore Maria" # &name is a YAML anchor which can be *referenced later
 description: Software Development & Engineering Lab # Short bio or description (displayed in the header)
 
+# Internationalization I18n
+locales:
+  default:
+    baseurl: ""
+    lang: en-US
+    name: English
+  it:
+    baseurl: /it
+    lang: it-IT
+    name: Italiano
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.ducatodipiazzapontida.it/media/images/articles/I.png
 
