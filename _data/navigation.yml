@@ -1,10 +1,38 @@
 # main links
+#English
 main:
   - title: "coding"
     url: /coding/
+    weight: 1
   - title: "architecture"
     url: /architecture/
+    weight: 1
   - title: "about"
     url: /about/
+    weight: 1
   - title: "contact"
     url: /contact/
+    weight: 1
+  - title: "EN"
+    url: /
+  - title: "IT"
+    url: /it/
+
+#Italian
+main_it:
+  - title: "coding"
+    url: /it/coding/
+    weight: 1
+  - title: "architecture"
+    url: /it/architecture/
+    weight: 1
+  - title: "about"
+    url: /it/about/
+    weight: 1
+  - title: "contact"
+    url: /it/contact/
+    weight: 1
+  - title: "EN"
+    url: /
+  - title: "IT"
+    url: /it/

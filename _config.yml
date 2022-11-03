@@ -3,14 +3,23 @@
 #
 
 defaults:
-  -
-    scope:
-      path: "_pages" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "single"
+- scope:
+    type: pages
+  values:
+    layout: single
+    collection_basename: pages
+- scope:
+    path: "_pages/"
+  values:
+    layout: single
+    collection_basename: pages
+- scope:
+    path: "_pages_it/"
+  values:
+    layout: single_it
+    collection_basename: pages
 
-minimal_mistakes_skin : "default" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin : "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -146,6 +155,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _pages_it
 
 plugins:
   - jekyll-include-cache

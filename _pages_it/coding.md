@@ -1,13 +1,13 @@
 ---
-permalink: /it/about/
-title: "Chi siamo"
+permalink: /it/coding/
+title: "Programmazione"
 excerpt: "A proposito Italiano Lab"
 last_modified_at: 2022-01-11T10:23:16-04:00
 toc: false
 author_profile: true
 ---
 
-Italiano Lab è fdfdsdsdsadad
+Parliamo di Programmazione
 Italiano Lab is a laboratory of software development and architectural engineering specialized in:
 
 - [software development of web app from scratch](/coding/) (Ruby On Rails) 
