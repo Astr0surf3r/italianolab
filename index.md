@@ -19,17 +19,17 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/3d-sample.png
-    alt: "sketchup projects"
-    title: "Prefab Tiny House Projects"
+    alt: "some projects"
+    title: "Some Projects"
     excerpt: "After the design of a small house project plan in .dwg or .dxf we can create a 3D model using a 3D software like Sketchup."
-    url: "/architecture/"
+    url: "/front-end/"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/calcoli-strutturali.png
-    alt: "Structural Calculation"
-    title: "Structural Calculation"
+    alt: "Development Tools"
+    title: "Development Tools"
     excerpt: "Calculations of the structures in reinforced concrete, steel and masonry walls using design software and manual calculations"
-    url: "/architecture/#structure-calculation/"
+    url: "/about/#development-tools/"
     btn_class: "btn--info"
     btn_label: "Learn more"      
 ---

@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "coding"
-    url: /coding/
-  - title: "architecture"
-    url: /architecture/
+  - title: "back end"
+    url: /back-end/
+  - title: "front end"
+    url: /front-end/
   - title: "about"
     url: /about/
   - title: "contact"
