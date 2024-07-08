@@ -14,11 +14,11 @@ minimal_mistakes_skin : "default" #"default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Italiano Lab"
+title                    : "ITALIANO LAB"
 title_separator          : "-"
-subtitle                 : "Software Development & Architectural Engineering Labs"
-name                     : &name "Ing. Salvatore Maria" # &name is a YAML anchor which can be *referenced later
-description: Software Development & Engineering Lab # Short bio or description (displayed in the header)
+subtitle                 : "Salvatore's Website: A Full-Stack Software Engineer"
+name                     : &name "Salvatore Maria (astr0surf3r)" # &name is a YAML anchor which can be *referenced later
+description: Fullstack Development & Software Engineering Lab # Short bio or description (displayed in the header)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.ducatodipiazzapontida.it/media/images/articles/I.png
@@ -58,7 +58,7 @@ google_analytics: G-1CC5T1VYWX
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: #""
+url: ""
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -94,6 +94,7 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-font-awesome-sass
   - jekyll-include-cache
+  - jekyll-feed
 
 font-awesome:
   assets: true
@@ -114,15 +115,18 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "https://avatars.githubusercontent.com/u/896968?v=4"
-  bio              : "Passion for Development and Architectural Design"
-  location         : "America, Europe"
+  bio              : "Full-Stack Software Engineer"
+  location         : "Latin America"
   links:
-    - label: "ItalianoLab Source Code"
+    - label: "Github Repository"
+      icon: "fab fa-github"
+      url: "https://www.github.com/astr0surf3r"
+    - label: "LinkedIn Page"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/salvatoremitaliano/"
+    - label: "ItalianoLab Website Source Code"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/Astr0surf3r/italianolab"
-    - label: "Telegram"
-      icon: "fab fa-telegram-plane"
-      url: "https://t.me/astr0surf3r"
 
 # Site Footer
 footer:
