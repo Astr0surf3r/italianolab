@@ -21,14 +21,14 @@ feature_row:
   - image_path: /assets/images/mm-tc.png
     alt: "some projects"
     title: "My Personal Projects"
-    excerpt: "After the design of a small house project plan in .dwg or .dxf we can create a 3D model using a 3D software like Sketchup."
+    excerpt: "Here you can see some projects I've built, both for freelance work and just for fun. I enjoy coding and turning ideas into software. This is a great way to show off my programming skills!"
     url: "/my-personal-projects/"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/dev-tools.png
     alt: "Development Tools"
     title: "Development Tools"
-    excerpt: "Calculations of the structures in reinforced concrete, steel and masonry walls using design software and manual calculations"
+    excerpt: "To make coding easier and keep my work clean, I use some helpful tools. Here are my favorites. Click on the button below to know more"
     url: "/development-tools/"
     btn_class: "btn--info"
     btn_label: "Learn more"      
