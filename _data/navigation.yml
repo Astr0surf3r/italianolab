@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "back end"
+  - title: "back-end"
     url: /back-end/
-  - title: "front end"
+  - title: "front-end"
     url: /front-end/
   - title: "about"
     url: /about/

@@ -1,8 +1,9 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
 excerpt: "Who we are! All about Italian Lab"
-last_modified_at: 2023-05-09T10:23:16-04:00
+last_modified_at: 2024-05-09T10:23:16-04:00
 toc: false
 author_profile: true
 ---
@@ -18,4 +19,5 @@ I rely on a set of tools for development to make coding easier and maintain good
 
 - **Version Control**: Git
 - **CI/CD**: Travis CI
+- **Container**: Docker
 - **Collaboration**: SCRUM (Slack, Jira)

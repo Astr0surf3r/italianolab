@@ -10,24 +10,14 @@ layouts_gallery_development:
     image_path: /assets/images/mm-ja77bet.png
     alt: "single layout with comments and related posts"
 last_modified_at: 2021-11-11T10:23:16-04:00
-toc: true
+toc: false
 author_profile: true
 ---
 
-## Front End Development
+In my software development work I prioritize building efficient and cost-effective solutions.  I leverage modern technologies like React, Ruby on Rails, NodeJS, SQL, and AWS, Digital Ocean or Heroku to achieve this goal.  For example, I designed a scalable real estate web application using a React frontend and a Ruby on Rails API backend, reducing development time and simplifying maintenance. 
 
-- preliminary analysis
-- creating prototype with mockups
-- development with [Bootstrap](https://getbootstrap.com/) or [Tailwind](https://tailwindcss.com/)
-- testing 
-- maintenance and support 
+My expertise in SQL optimization allowed me to significantly improve data retrieval speed in another project. Additionally, I developed a cost-effective SMS platform using the Twilio API for a real estate company, drastically reducing their communication expenses. 
 
-{% include gallery id="layouts_gallery_development" caption="Examples of our `works`" %}
+I also built a web application with a cash register system for an auto wash service, providing them with real-time financial reporting and improved control over their finances. 
 
-## Back End Development
-
-- design and software analysis
-- database design (postgresql, mongodb)
-- RESTFUL Services with API
-- MVC architectural pattern
-- all component development with [Ruby On Rails](https://rubyonrails.org/)
+Generally I suggest to utilize cloud deployment on AWS (or other similar companies) for scalability, reliability, and cost efficiency in the projects
