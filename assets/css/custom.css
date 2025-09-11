@@ -1,0 +1,51 @@
+/* Custom CSS for 4-column feature row */
+.top-features .feature__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+.top-features .feature__item {
+  flex: 0 0 23%;
+  margin-bottom: 1em;
+}
+
+@media (max-width: 768px) {
+  .top-features .feature__item {
+    flex: 0 0 48%;
+  }
+}
+
+@media (max-width: 480px) {
+  .top-features .feature__item {
+    flex: 0 0 100%;
+  }
+}
+
+.top-features .archive__item-teaser img {
+  width: 100%;
+  height: auto;
+}
+
+.top-features .archive__item-title {
+  font-size: 1.1em;
+  margin-top: 0.5em;
+}
+
+.top-features .archive__item-excerpt {
+  font-size: 0.85em;
+  margin-bottom: 0.5em;
+}
+
+.top-features .btn {
+  font-size: 0.8em;
+  padding: 0.5em 1em;
+}
+
+/* Ensure the feature wrapper clears properly */
+.feature__wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}

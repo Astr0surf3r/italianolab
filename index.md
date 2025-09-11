@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home_feature_above
 permalink: /
 hidden: true
 header:
@@ -11,6 +11,13 @@ header:
 excerpt: <strong>Building software from scratch</strong> <br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0"></a></small>
 feature_row:
+  - image_path: /assets/images/3d-sample.png
+    alt: "3D model automation with Sketchup Ruby API"
+    title: "Develop with Sketchup Ruby API"
+    excerpt: "Since 2018, as an architectural engineer, I have been developing 3D house models with SketchUp, and as a Ruby developer, I started customizing my models using the SketchUp Ruby API"
+    url: "/sketchup-ruby-api/"
+    btn_class: "btn--info"
+    btn_label: "Learn more"
   - image_path: /assets/images/ruby-code.png
     alt: "customizable"
     title: "Specialized Software"
@@ -31,9 +38,7 @@ feature_row:
     excerpt: "To make coding easier and keep my work clean, I use some helpful tools. Here are my favorites. Click on the button below to know more"
     url: "/development-tools/"
     btn_class: "btn--info"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
 ---
-
-{% include feature_row %}
 
 
