@@ -10,8 +10,9 @@ author_profile: true
 
 Welcome to Italiano Lab, my website! I'm a passionate full stack software developer and I have more than 10 years of experience in the IT field:
 
-- [software development of web app from scratch](/back-end/) 
-- [code maintenance and refactoring](/front-end/) 
+- [software development of web app from scratch](/about/) 
+- [code maintenance and refactoring](/about/) 
+- [develop with SketchUp Ruby API](/sketchup-ruby-api/)
 
 ## Development Tools
 
